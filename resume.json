@@ -80,7 +80,7 @@
       "url": "https://beam.pro/",
       "highlights": [
         "Plan, architect and implement scalable features in both monolithic and micro services in NodeJS, golang and other common web technologies.",
-        "Implemented automatic code quality guidelines using automated code analysis, strict testing and coverage checking.",
+        "Implemented code quality guidelines using automated code analysis, strict testing and coverage checking.",
         "Contribute to open source software, both our own and third party.",
         "Revamp internal and 3rd party developer documentation.",
         "Tiered user report and escalation system."
@@ -107,7 +107,7 @@
       "location": "Remote",
       "position": "Software Engineer (Contractor)",
       "startDate": "2014-10-01",
-      "summary": "I was hired as a contractor to build a search engine and web crawler for small to medium sized businesses located in central Europe.",
+      "summary": "Hired as a contractor to build a search engine and web crawler for small to medium sized businesses located in central Europe.",
       "url": "https://www.omnea.de/",
       "highlights": [
         "Implementation, maintenance and administration of external APIs in JavaScript/Coffee-Script and PHP.",
@@ -159,7 +159,7 @@
     {
       "area": "Computer Science",
       "endDate": "2014-10-01",
-      "institution": "Julius Maximilians University, Würdburg, Germany",
+      "institution": "Julius Maximilians University, Würzburg, Germany",
       "startDate": "2012-10-01",
       "studyType": "Bachelor (not graduated)",
       "courses": [
@@ -259,7 +259,7 @@
       "url": "https://github.com/sequelize"
     },
     {
-      "description": "As a Microsoft Employee and OSS contributor I have made hundreds of contributions to various library definitions available on the DT project.",
+      "description": "As a Microsoft Employee and OSS contributor hundreds of contributions to various library definitions available on the DT project have been made.",
       "entity": "Microsoft",
       "highlights": [],
       "keywords": ["TypeScript"],
