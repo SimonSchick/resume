@@ -1,0 +1,284 @@
+{
+  "meta": {
+    "lastModified": "2019-11-08T02:05:00Z",
+    "version": "1.0.0",
+    "theme": "paper"
+  },
+  "basics": {
+    "email": "demwizzy@gmail.com",
+    "label": "Software Engineer",
+    "name": "Simon Schick",
+    "phone": "(425) 389-7707",
+    "summary": "Quality obsessed software engineer",
+    "location": {
+      "address": "16175 Cleveland Street",
+      "city": "Redmond",
+      "countryCode": "US",
+      "postalCode": "WA 98052",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/SimonSchick",
+        "username": "SimonSchick"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "www.linkedin.com/in/simon-schick",
+        "username": "simon-schick"
+      },
+      {
+        "network": "Gitlab",
+        "url": "https://gitlab.com/simon.schick",
+        "username": "simon.schick"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Microsoft / Mixer",
+      "description": "Live streaming integrated into the Xbox gaming ecosystem.",
+      "endDate": "2019-10-01",
+      "location": "Redmond, WA",
+      "position": "Software Engineer II",
+      "startDate": "2019-05-01",
+      "summary": "Continued engineering duties after immigration to the US.",
+      "url": "https://mixer.com",
+      "highlights": [
+        "Advanced integrations with Azure cloud technologies with a focus on storage and service communication technologies.",
+        "Rebuilding Mixer’s payment systems which handle up to thousands of transactions per hour.",
+        "Large contributions to highly scalable user incentives/retention systems.",
+        "Mentoring new team members on legacy and up and coming technologies."
+      ]
+    },
+    {
+      "company": "Microsoft GmbH / Mixer",
+      "description": "Live streaming integrated into the Xbox gaming ecosystem.",
+      "endDate": "2019-10-01",
+      "location": "Berlin",
+      "position": "Software Engineer II",
+      "startDate": "2019-05-01",
+      "summary": "After Beam LLC was acquired my Microsoft, I was hired as a full time employee. Responsible for various integrations into the Xbox ecosystem.",
+      "url": "https://mixer.com",
+      "highlights": [
+        "Integration of pre-acquisition services with existing Xbox system.",
+        "Mentor a rapidly growing team on existing systems.",
+        "Large contributions to highly scalable user incentives/retention systems.",
+        "Large scale modernisations of various services.",
+        "Enhance various existing services to scale for a rapidly growing customer base."
+      ]
+    },
+    {
+      "company": "Beam LLC",
+      "description": "Low latency interactive live streaming.",
+      "endDate": "2016-11-01",
+      "location": "Remote",
+      "position": "Software Engineer",
+      "startDate": "2016-02-01",
+      "summary": "Beam LLC was an independent live streaming platform that was eventually acquired by Microsoft and later rebranded to `Mixer`.",
+      "url": "https://beam.pro/",
+      "highlights": [
+        "Plan, architect and implement scalable features in both monolithic and micro services in NodeJS, golang and other common web technologies.",
+        "Implemented automatic code quality guidelines using automated code analysis, strict testing and coverage checking.",
+        "Contribute to open source software, both our own and third party.",
+        "Revamp internal and 3rd party developer documentation.",
+        "Tiered user report and escalation system."
+      ]
+    },
+    {
+      "company": "Omnea GmbH",
+      "description": "Automatic customer data synchronisation across various indexing websites across Europe.",
+      "endDate": "2015-05-01",
+      "location": "Berlin",
+      "position": "Software Engineer",
+      "startDate": "2015-01-01",
+      "summary": "Following successful contract work, Omnea hired me to work as a full time employee on-site.",
+      "url": "https://www.omnea.de/",
+      "highlights": [
+        "Handle sanitation and synchronisation of millions of sets of customer data.",
+        "Integrate with dozens of third party APIs to synchronize customer data on their behalf."
+      ]
+    },
+    {
+      "company": "Omnea GmbH",
+      "description": "Automatic customer data synchronisation across various indexing websites across Europe.",
+      "endDate": "2015-01-01",
+      "location": "Remote",
+      "position": "Software Engineer (Contractor)",
+      "startDate": "2014-10-01",
+      "summary": "I was hired as a contractor to build a search engine and web crawler for small to medium sized businesses located in central Europe.",
+      "url": "https://www.omnea.de/",
+      "highlights": [
+        "Implementation, maintenance and administration of external APIs in JavaScript/Coffee-Script and PHP.",
+        "Web scraping, indexing and sanitation of various websites, making the data accessible and useful to Omnea.",
+        "Implementation of marketing tools using JavaScript, PhantomJS/WebDriver."
+      ]
+    },
+    {
+      "company": "KnightSwarm Handelsbolag",
+      "description": "General web development services.",
+      "endDate": "2014-11-01",
+      "location": "Remote",
+      "position": "Web Developer (Contractor)",
+      "startDate": "2014-09-01",
+      "summary": "Contracted as general purpose web developer.",
+      "url": "https://www.knightswarm.com/",
+      "highlights": [
+        "Implementation of themes for blogs and other websites using PHP and JavaScript."
+      ]
+    },
+    {
+      "company": "Centerra Networks Inc. (defunct)",
+      "description": "Hosting Services.",
+      "endDate": "2014-11-01",
+      "location": "Remote",
+      "position": "Web Developer (Contractor)",
+      "startDate": "2014-09-01",
+      "summary": "Contracted as frontend developer.",
+      "highlights": [
+        "Creation of a file system management UI in JavaScript."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Reno Area Anthropomorphic Arts and Recreations",
+      "position": "Software Lead Developer",
+      "startDate": "2017-09-02",
+      "summary": "Developed a convention management system with integrated store, volunteer management and many more features.",
+      "url": "https://goblfc.org/",
+      "highlights": [
+        "Providing great customer experience before and at convention for signups.",
+        "Zero downtime during events.",
+        "Live business analytics."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "area": "Computer Science",
+      "endDate": "2014-10-01",
+      "institution": "Julius Maximilians University, Würdburg, Germany",
+      "startDate": "2012-10-01",
+      "studyType": "Bachelor (not graduated)",
+      "courses": [
+        "Algorithms and Datastructures",
+        "Information Transmission",
+        "Software Design",
+        "Logic",
+        "Linear Algebra 1"
+      ]
+    },
+    {
+      "area": "High School",
+      "endDate": "2012-05-01",
+      "institution": "Oberstufe Carl von Ossietzky, Bremerhaven, Germany",
+      "startDate": "2009-08-01",
+      "studyType": "Abitor (High School Diploma)",
+      "courses": [
+        "Computer Science Major",
+        "Physics Major"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Advanced",
+      "keywords": [
+        "TypeScript (expert)",
+        "JavaScript (expert)",
+        "React (proficient)",
+        "Angular (proficient)",
+        "Webpack (proficient)",
+        "CSS and preprocessors (preficient)",
+        "HTML (proficient)"
+      ]
+    },
+    {
+      "name": "Service Development",
+      "level": "Advanced",
+      "keywords": [
+        "nodejs (expert)",
+        "golang (proficient)",
+        "C# (proficient)",
+        "SQL (proficient)",
+        "Redis (proficient)"
+      ]
+    },
+    {
+      "name": "Tool/Application Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Electron (proficient)",
+        "C# (proficient)",
+        "Java (proficient)",
+        "C (proficient)",
+        "C++ (proficient)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Cooking"
+    },
+    {
+      "name": "Gym"
+    },
+    {
+      "name": "OSS"
+    }
+  ],
+  "references": [
+  ],
+  "projects": [
+    {
+      "description": "Member of sequelize development team",
+      "highlights": [
+        "Modernised the entire project and made countless contributions. Allowing thousands of developers world wide, to use the ORM with ease."
+      ],
+      "entity": "Sequelize",
+      "keywords": ["ORM"],
+      "name": "Sequelize",
+      "roles": ["Team Member"],
+      "startDate": "2019-03-13",
+      "type": "OSS",
+      "url": "https://github.com/sequelize"
+    },
+    {
+      "description": "As a Microsoft Employee and OSS contributor I have made hundreds of contributions to various library definitions available on the DT project.",
+      "entity": "Microsoft",
+      "highlights": [],
+      "keywords": ["TypeScript"],
+      "name": "DefinetelyTyped",
+      "roles": ["Contributor"],
+      "startDate": "2017-12-01",
+      "type": "oss",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
+    },
+    {
+      "description": "Founded on initial volunteering work turned into a commercial product that is used by various small scale conventions",
+      "entity": "Convention Cat Corp",
+      "highlights": [],
+      "keywords": ["Management", "Conventions"],
+      "name": "Convention Cat",
+      "roles": ["Lead developer", "Consultant"],
+      "startDate": "2018-09-12",
+      "type": "personal project",
+      "url": "https://concat.app/"
+    }
+  ]
+}

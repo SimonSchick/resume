@@ -1,0 +1,11 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "resume.json"
+      ],
+      "url": "./strict-schema.json"
+    }
+  ],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
