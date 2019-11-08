@@ -5,7 +5,7 @@
   "main": "none",
   "scripts": {
     "start": "resume export resume.pdf",
-    "test": "resume test"
+    "test": "resume test && ts-node validation.ts"
   },
   "repository": {
     "type": "git",
@@ -21,7 +21,16 @@
   },
   "homepage": "https://gitlab.com/SimonSchick/resume#readme",
   "dependencies": {
+    "chalk": "^2.4.2",
     "jsonresume-theme-paper": "^0.3.5",
     "resume-cli": "^1.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.6",
+    "@types/spellchecker": "^3.5.0",
+    "json-schema-to-typescript": "^7.1.0",
+    "spellchecker": "^3.7.0",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.7.2"
   }
 }

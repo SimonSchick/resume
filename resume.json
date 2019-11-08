@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2019-11-08T02:05",
+    "lastModified": "2019-11-08T02:05Z",
     "version": "1.0.0",
     "theme": "paper"
   },
@@ -8,7 +8,7 @@
     "email": "demwizzy@gmail.com",
     "label": "Software Engineer",
     "name": "Simon Schick",
-    "phone": "(425) 389-7797",
+    "phone": "(425) 389-7707",
     "picture": "",
     "summary": "Quality obsessed software engineer",
     "location": {
@@ -20,7 +20,7 @@
     },
     "profiles": [
       {
-        "network": "Github",
+        "network": "GitHub",
         "url": "https://github.com/SimonSchick",
         "username": "SimonSchick"
       },
@@ -60,7 +60,7 @@
       "location": "Berlin",
       "position": "Software Engineer II",
       "startDate": "2019-05-01",
-      "summary": "After Beam LLC was acquired my Microsoft, I was hired as a full time employee. Responsible for various integrations into the Xbox ecosystem",
+      "summary": "After Beam LLC was acquired my Microsoft, I was hired as a full time employee. Responsible for various integrations into the Xbox ecosystem.",
       "website": "https://mixer.com",
       "highlights": [
         "Integration of pre-acquisition services with existing Xbox system.",
@@ -72,7 +72,7 @@
     },
     {
       "company": "Beam LLC",
-      "description": "Low Latency interactive live streaming",
+      "description": "Low latency interactive live streaming.",
       "endDate": "2016-11-01",
       "location": "Remote",
       "position": "Software Engineer",
@@ -83,7 +83,7 @@
         "Plan, architect and implement scalable features in both monolithic and micro services in NodeJS, golang and other common web technologies.",
         "Implemented automatic code quality guidelines using automated code analysis, strict testing and coverage checking.",
         "Contribute to open source software, both our own and third party.",
-        "Revamp internal and 3rd party developer documentation",
+        "Revamp internal and 3rd party developer documentation.",
         "Tiered user report and escalation system."
       ]
     },
@@ -112,12 +112,12 @@
       "url": "https://www.omnea.de/",
       "highlights": [
         "Implementation, maintenance and administration of external APIs in JavaScript/Coffee-Script and PHP.",
-        "Web scraping, indexing and sanitation of various websites, making the data accessable and useful to Omnea",
-        "Implementation of marketing tools using JavaScript, PhantomJS/WebDriver"
+        "Web scraping, indexing and sanitation of various websites, making the data accessible and useful to Omnea.",
+        "Implementation of marketing tools using JavaScript, PhantomJS/WebDriver."
       ]
     },
     {
-      "description": "General web development services",
+      "description": "General web development services.",
       "endDate": "2014-11-01",
       "location": "Remote",
       "name": "KnightSwarm Handelsbolag",
@@ -126,19 +126,19 @@
       "summary": "Contracted as general purpose web developer.",
       "url": "https://www.knightswarm.com/",
       "highlights": [
-        "Implementation of themes for blogs and other websites using PHP and JavaScript"
+        "Implementation of themes for blogs and other websites using PHP and JavaScript."
       ]
     },
     {
-      "description": "Hosting Services",
+      "description": "Hosting Services.",
       "endDate": "2014-11-01",
       "location": "Remote",
       "name": "Centerra Networks Inc. (defunct)",
       "position": "Web Developer (Contractor)",
       "startDate": "2014-09-01",
-      "summary": "Contracted as frontend developer",
+      "summary": "Contracted as frontend developer.",
       "highlights": [
-        "Creation of a file system management UI in JavaScript"
+        "Creation of a file system management UI in JavaScript."
       ]
     }
   ],
@@ -151,8 +151,8 @@
       "website": "https://goblfc.org/",
       "highlights": [
         "Providing great customer experience before and at convention for signups.",
-        "Zero downtime",
-        "Live business analytics"
+        "Zero downtime during events.",
+        "Live business analytics."
       ]
     }
   ],
@@ -195,9 +195,9 @@
         "JavaScript (expert)",
         "React (proficient)",
         "Angular (proficient)",
-        "Webpack (profixient)",
-        "CSS (and preprocessors) (preficient)",
-        "HTML (profecient)"
+        "Webpack (proficient)",
+        "CSS and preprocessors (preficient)",
+        "HTML (proficient)"
       ]
     },
     {
@@ -205,8 +205,10 @@
       "level": "Advanced",
       "keywords": [
         "nodejs (expert)",
-        "golang (expert)",
-        "C# (proficient)"
+        "golang (proficient)",
+        "C# (proficient)",
+        "SQL (proficient)",
+        "Redis (proficient)"
       ]
     },
     {
@@ -256,7 +258,7 @@
       "url": "https://github.com/sequelize"
     },
     {
-      "description": "As a Microsoft Employee and OSS contributor I have made hundreds of contributions to various library definitions available on the DT project",
+      "description": "As a Microsoft Employee and OSS contributor I have made hundreds of contributions to various library definitions available on the DT project.",
       "entity": "Microsoft",
       "highlights": [],
       "keywords": ["TypeScript"],
