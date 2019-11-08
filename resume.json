@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastModified": "2019-11-08T02:05Z",
+    "lastModified": "2019-11-08T02:05:00Z",
     "version": "1.0.0",
     "theme": "paper"
   },
@@ -9,7 +9,6 @@
     "label": "Software Engineer",
     "name": "Simon Schick",
     "phone": "(425) 389-7707",
-    "picture": "",
     "summary": "Quality obsessed software engineer",
     "location": {
       "address": "16175 Cleveland Street",
@@ -45,7 +44,7 @@
       "position": "Software Engineer II",
       "startDate": "2019-05-01",
       "summary": "Continued engineering duties after immigration to the US.",
-      "website": "https://mixer.com",
+      "url": "https://mixer.com",
       "highlights": [
         "Advanced integrations with Azure cloud technologies with a focus on storage and service communication technologies.",
         "Rebuilding Mixer’s payment systems which handle up to thousands of transactions per hour.",
@@ -61,7 +60,7 @@
       "position": "Software Engineer II",
       "startDate": "2019-05-01",
       "summary": "After Beam LLC was acquired my Microsoft, I was hired as a full time employee. Responsible for various integrations into the Xbox ecosystem.",
-      "website": "https://mixer.com",
+      "url": "https://mixer.com",
       "highlights": [
         "Integration of pre-acquisition services with existing Xbox system.",
         "Mentor a rapidly growing team on existing systems.",
@@ -78,7 +77,7 @@
       "position": "Software Engineer",
       "startDate": "2016-02-01",
       "summary": "Beam LLC was an independent live streaming platform that was eventually acquired by Microsoft and later rebranded to `Mixer`.",
-      "website": "https://beam.pro/",
+      "url": "https://beam.pro/",
       "highlights": [
         "Plan, architect and implement scalable features in both monolithic and micro services in NodeJS, golang and other common web technologies.",
         "Implemented automatic code quality guidelines using automated code analysis, strict testing and coverage checking.",
@@ -88,10 +87,10 @@
       ]
     },
     {
+      "company": "Omnea GmbH",
       "description": "Automatic customer data synchronisation across various indexing websites across Europe.",
       "endDate": "2015-05-01",
       "location": "Berlin",
-      "name": "Omnea GmbH",
       "position": "Software Engineer",
       "startDate": "2015-01-01",
       "summary": "Following successful contract work, Omnea hired me to work as a full time employee on-site.",
@@ -102,10 +101,10 @@
       ]
     },
     {
+      "company": "Omnea GmbH",
       "description": "Automatic customer data synchronisation across various indexing websites across Europe.",
       "endDate": "2015-01-01",
       "location": "Remote",
-      "name": "Omnea GmbH",
       "position": "Software Engineer (Contractor)",
       "startDate": "2014-10-01",
       "summary": "I was hired as a contractor to build a search engine and web crawler for small to medium sized businesses located in central Europe.",
@@ -117,10 +116,10 @@
       ]
     },
     {
+      "company": "KnightSwarm Handelsbolag",
       "description": "General web development services.",
       "endDate": "2014-11-01",
       "location": "Remote",
-      "name": "KnightSwarm Handelsbolag",
       "position": "Web Developer (Contractor)",
       "startDate": "2014-09-01",
       "summary": "Contracted as general purpose web developer.",
@@ -130,10 +129,10 @@
       ]
     },
     {
+      "company": "Centerra Networks Inc. (defunct)",
       "description": "Hosting Services.",
       "endDate": "2014-11-01",
       "location": "Remote",
-      "name": "Centerra Networks Inc. (defunct)",
       "position": "Web Developer (Contractor)",
       "startDate": "2014-09-01",
       "summary": "Contracted as frontend developer.",
@@ -148,7 +147,7 @@
       "position": "Software Lead Developer",
       "startDate": "2017-09-02",
       "summary": "Developed a convention management system with integrated store, volunteer management and many more features.",
-      "website": "https://goblfc.org/",
+      "url": "https://goblfc.org/",
       "highlights": [
         "Providing great customer experience before and at convention for signups.",
         "Zero downtime during events.",
@@ -159,7 +158,6 @@
   "education": [
     {
       "area": "Computer Science",
-      "description": "Departed early due to business opportunities",
       "endDate": "2014-10-01",
       "institution": "Julius Maximilians University, Würdburg, Germany",
       "startDate": "2012-10-01",
@@ -248,7 +246,10 @@
   ],
   "projects": [
     {
-      "description": "As a member of the sequelize org I have modernised the entire project and made countless contributions. Allowing thousands of developers world wide, to use the ORM with ease.",
+      "description": "Member of sequelize development team",
+      "highlights": [
+        "Modernised the entire project and made countless contributions. Allowing thousands of developers world wide, to use the ORM with ease."
+      ],
       "entity": "Sequelize",
       "keywords": ["ORM"],
       "name": "Sequelize",
@@ -269,12 +270,14 @@
       "url": "https://github.com/DefinitelyTyped/DefinitelyTyped"
     },
     {
-      "description": "Founded on initial volunteering work turned into a commercial product that is used by various small scale conventions, I mostly act as a consultant at this point.",
+      "description": "Founded on initial volunteering work turned into a commercial product that is used by various small scale conventions",
       "entity": "Convention Cat Corp",
+      "highlights": [],
       "keywords": ["Management", "Conventions"],
       "name": "Convention Cat",
       "roles": ["Lead developer", "Consultant"],
       "startDate": "2018-09-12",
+      "type": "personal project",
       "url": "https://concat.app/"
     }
   ]
